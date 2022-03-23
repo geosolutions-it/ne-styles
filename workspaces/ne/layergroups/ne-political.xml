@@ -1,0 +1,111 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--2524850:17f4b5b279a:-7ff6</id>
+  <name>ne-political</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl--2524850:17f4b5b279a:-7fff</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--2524850:17f4b5b279a:-7fe4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2524850:17f4b5b279a:-7ff9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2524850:17f4b5b279a:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7ff3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2524850:17f4b5b279a:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fd0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7fee</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7ffa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fce</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7ff1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7ff7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7ff4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7feb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fdd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fcb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fe6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fe3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fc7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fd7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fe0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fe9</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>-180.0</minx>
+    <maxx>180.0</maxx>
+    <miny>-90.0</miny>
+    <maxy>90.0</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-02 16:09:00.631 UTC</dateCreated>
+  <dateModified>2022-03-23 09:38:18.458 UTC</dateModified>
+</layerGroup>

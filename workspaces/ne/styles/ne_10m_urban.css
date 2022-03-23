@@ -1,0 +1,6 @@
+/* @title Urban Areas */
+[@sd < 20M] {
+  fill: lightgray;
+  fill-opacity: 70%;
+  composite: 'multiply';
+}

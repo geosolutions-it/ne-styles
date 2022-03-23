@@ -1,0 +1,22 @@
+/* @title Capitals */
+[@sd > 70M] {
+  mark: symbol(circle);
+  :mark {
+    size: [interpolate(@sd, 70M, 4, 280M, 2)];
+    fill: orange;
+    stroke: darkred;
+    stroke-width: 0.5;
+  };
+  [@sd < 140M] {
+    label: [NAME];
+    label-anchor: 0.5 1;
+    label-offset: 0 -5;
+    font-family: 'Noto Serif';
+    font-size: 8;
+    font-style: italic;
+    font-fill: black;
+    label-auto-wrap: 100;
+    label-priority: [POP_MAX];
+  }
+
+}

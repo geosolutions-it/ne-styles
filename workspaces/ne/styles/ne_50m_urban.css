@@ -1,0 +1,7 @@
+/* @title azure polygon */
+[@sd < 70M][@sd > 20M]
+* {
+  fill: lightgray;
+  fill-opacity: 70%;
+  composite: 'multiply';
+}

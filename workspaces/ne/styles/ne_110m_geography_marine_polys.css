@@ -1,0 +1,13 @@
+/* @title Marine names */
+[@sd > 70M] {
+  label: [strToUppercase(name)];
+  font-family: 'Noto Sans';
+  font-weight: bold;
+  font-fill: lighten(desaturate(darkblue, 80%), 20%);
+  font-size: [Interpolate(@sd, 70M, 14, 280M, 8)];
+  label-priority: 100M;
+  label-auto-wrap: 80;
+  label-max-displacement: 100;
+  label-fit-goodness: 1;
+  label-char-spacing: 1.5;
+}

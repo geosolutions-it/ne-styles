@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_ocean</name>
+  <id>LayerInfoImpl--2524850:17f4b5b279a:-7fe4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2524850:17f4b5b279a:-7fe3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2524850:17f4b5b279a:-7fe5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-02 18:31:30.660 UTC</dateCreated>
+  <dateModified>2022-03-02 18:32:18.35 UTC</dateModified>
+</layer>

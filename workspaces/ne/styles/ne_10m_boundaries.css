@@ -1,0 +1,7 @@
+/* @title Country boundary */
+[@sd < 20M] {
+  stroke: red;
+  stroke-opacity: 30%;
+  stroke-width: [Interpolate(@sd, 4M, 5, 10M, 2)];
+
+}

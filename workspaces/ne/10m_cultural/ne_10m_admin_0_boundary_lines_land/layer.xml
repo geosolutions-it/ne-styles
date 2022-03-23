@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_10m_admin_0_boundary_lines_land</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fd7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fd6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7fd8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 16:51:28.154 UTC</dateCreated>
+  <dateModified>2022-03-03 16:53:44.784 UTC</dateModified>
+</layer>

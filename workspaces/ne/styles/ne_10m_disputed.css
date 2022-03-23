@@ -1,0 +1,9 @@
+/* @title Disputed areas */
+[@sd < 20M] {
+    fill: lighten(lightgray, 10%), symbol('shape://slash');
+    :fill {
+      size: 6;
+      stroke: red;
+      stroke-opacity: 30%;
+    }
+}

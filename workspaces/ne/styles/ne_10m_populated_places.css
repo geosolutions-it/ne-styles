@@ -1,0 +1,38 @@
+/* @title Populated places */
+[@sd < 20M] {
+  mark: symbol(circle);
+  :mark {
+    fill: darkred;
+  };
+  [WORLDCITY = 1] {
+    mark-label-obstacle: true;
+    :mark {
+      size: [Interpolate(@sd, 2M, 10, 10M, 7)];
+    };
+    label-offset: 0 -8;
+    font-size: [Interpolate(@sd, 2M, 14, 10M, 10)];
+  };
+  [WORLDCITY = 0] {
+    :mark {
+      size: [Interpolate(@sd, 2M, 6, 10M, 3)];
+    };
+    label-offset: 0 -4;
+    font-size: [Interpolate(@sd, 2M, 12, 10M, 8)];
+  };
+  [FEATURECLA like '%Admin-0 capital%'] {   
+    :mark {
+      fill: orange;
+      stroke: darkred;
+      stroke-width: 0.5;
+    };
+    font-style: italic;
+  };
+  label: [NAME];
+  label-anchor: 0.5 1;
+  font-family: 'Noto Serif';
+  font-fill: black;
+  label-auto-wrap: 100;
+  label-priority: [POP_MAX];
+  label-padding: 2;
+
+}

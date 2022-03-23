@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_10m_admin_0_disputed_areas</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fcb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fca</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7fcc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 18:11:13.875 UTC</dateCreated>
+  <dateModified>2022-03-03 18:12:52.302 UTC</dateModified>
+</layer>

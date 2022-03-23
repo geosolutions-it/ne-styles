@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_populated_places</name>
+  <id>LayerInfoImpl--2524850:17f4b5b279a:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2524850:17f4b5b279a:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-02 16:02:57.3 UTC</dateCreated>
+  <dateModified>2022-03-03 15:09:24.871 UTC</dateModified>
+</layer>

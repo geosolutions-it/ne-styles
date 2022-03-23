@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_50m_admin_1_states_provinces_lakes</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7ff1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fef</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7ff3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 15:29:48.667 UTC</dateCreated>
+  <dateModified>2022-03-03 15:34:38.756 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_10m_urban_areas</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fc9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 15:59:40.905 UTC</dateCreated>
+  <dateModified>2022-03-03 18:16:04.7 UTC</dateModified>
+</layer>

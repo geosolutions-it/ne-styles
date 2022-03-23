@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_geography_marine_polys</name>
+  <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7ff3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5fb5efd1:17fb2dd78e8:-7ff2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5fb5efd1:17fb2dd78e8:-7ff4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-23 09:11:39.577 UTC</dateCreated>
+  <dateModified>2022-03-23 09:13:29.232 UTC</dateModified>
+</layer>

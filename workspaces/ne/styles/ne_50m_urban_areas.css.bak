@@ -1,0 +1,6 @@
+/* @title cyan polygon */
+[@sd > 20M][@sd < 70M] {
+    stroke: #000000;
+    stroke-width: 0.5;
+    fill: #0099cc;
+}

@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_10m_ocean_scale_rank</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fd0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fd2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7fd1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 17:53:52.597 UTC</dateCreated>
+  <dateModified>2022-03-03 17:54:01.582 UTC</dateModified>
+</layer>

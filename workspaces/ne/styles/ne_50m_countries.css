@@ -1,0 +1,20 @@
+/* @title Countries */
+[@sd > 20M][@sd < 70M] {
+  stroke: darken(darkgray, 5%);
+  stroke-width: 0.1;
+  
+  /* generated using https://colorbrewer2.org/#type=qualitative&scheme=Pastel1&n=7 */
+  fill: [Recode(MAPCOLOR7, 1, '#fbb4ae', 2, lighten('#b3cde3', '5%'), 3, '#ccebc5', 4, lighten('#decbe4', '5%'), 5, '#fed9a6', 6, '#ffffcc', 7, '#e5d8bd')];
+  
+  label: [NAME];
+  label-anchor: 0.5 0.5;
+  font-family: 'Noto Sans';
+  font-size: 14;
+  font-fill: lighten(black, 20%);
+  halo-color: white;
+  halo-radius: 1;
+  halo-opacity: 70%;
+  label-priority: [POP_EST];
+  label-auto-wrap: 100;
+  label-max-displacement: 50;
+}

@@ -1,0 +1,38 @@
+/* @title Roads */
+[@sd < 20M] {
+  [featurecla = 'Ferry'] {
+    stroke: lighten(blue, 30%);
+    stroke-dasharray: 4 4;
+  };
+  [featurecla = 'Road'] {
+    [@sd < 10M] {
+      stroke: desaturate(darkorange, 50%);
+      stroke-width: 0.5;
+    };
+    [@sd < 10M][type = 'Secondary Highway'] {
+      stroke: darkorange;
+      stroke-width: 1;
+    };
+    [@sd < 20M][type = 'Major Highway'] {
+      stroke: orange, yellow;
+      stroke-width: 3, 1;
+      z-index: 0, 1;
+      
+      label: [local];
+      label-anchor: 0.5 0.5;
+      font-family: 'Noto Sans';
+      font-fill: black;
+      label-group: true;
+      label-repeat: 200;
+      label-max-angle-delta: 45;
+      shield: symbol(square);
+      shield-resize: stretch;
+      shield-margin: 2;
+      :shield {
+        fill: white;
+        stroke: orange;
+        stroke-width: 0.2;
+      };
+    };
+  };
+}

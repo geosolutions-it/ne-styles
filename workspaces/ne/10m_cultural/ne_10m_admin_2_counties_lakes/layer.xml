@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_10m_admin_2_counties_lakes</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fc7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fc6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7fc8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 18:27:59.318 UTC</dateCreated>
+  <dateModified>2022-03-03 18:30:55.742 UTC</dateModified>
+</layer>

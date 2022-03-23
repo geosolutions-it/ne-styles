@@ -1,0 +1,12 @@
+# don't save NE data in git
+10m_cultural
+10m_physical
+110m_cultural
+110m_physical
+50m_cultural
+50m_physical
+CHANGELOG
+housekeeping
+README.md
+tools
+VERSION

@@ -1,0 +1,5 @@
+/* @title ocean */
+[@sd < 50M] {
+  fill: lighten(lightblue, 15%), symbol('shape://slash');
+  :fill { size: 5; stroke: lighten(lightblue, 10%); stroke-width: 1}
+}

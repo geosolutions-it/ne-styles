@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_50m_admin_0_breakaway_disputed_areas</name>
+  <id>LayerInfoImpl-278efbc3:17f5052b3fc:-7fce</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-278efbc3:17f5052b3fc:-7fcd</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-278efbc3:17f5052b3fc:-7fcf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-03 17:58:46.151 UTC</dateCreated>
+  <dateModified>2022-03-03 18:08:23.384 UTC</dateModified>
+</layer>
