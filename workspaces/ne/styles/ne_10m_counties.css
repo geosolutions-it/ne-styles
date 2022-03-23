@@ -1,19 +1,12 @@
 /* @title Counties */
-[@sd < 8M]{
-  stroke: darkgray;
-  stroke-dasharray: 2 2;
-  stroke-width: 0.5;
-
-  [@sd < 4M] { 
-    label: [NAME];
-    label-anchor: 0.5 0.5;
-    font-family: 'Noto Sans';
-    font-size: 10;
-    font-fill: black;
-    halo-color: white;
-    halo-radius: 0.5;
-    label-auto-wrap: 70;
-    label-max-displacement: 50;
-  };
-
+[@sd < 4M] { 
+  label: [NAME];
+  label-anchor: 0.5 0.5;
+  font-family: 'Noto Sans';
+  font-size: 10;
+  font-fill: black;
+  halo-color: white;
+  halo-radius: 0.5;
+  label-auto-wrap: 70;
+  label-max-displacement: 50;
 }

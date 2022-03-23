@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_10m_admin_2_counties_lines</name>
+  <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7fe0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5fb5efd1:17fb2dd78e8:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5fb5efd1:17fb2dd78e8:-7fe1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-23 11:30:36.982 UTC</dateCreated>
+  <dateModified>2022-03-23 11:31:26.422 UTC</dateModified>
+</layer>

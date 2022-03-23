@@ -1,0 +1,6 @@
+/* @title Counties */
+[@sd < 8M]{
+  stroke: darkgray;
+  stroke-dasharray: 2 2;
+  stroke-width: 0.5;
+}

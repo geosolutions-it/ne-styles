@@ -5,9 +5,9 @@
       <sld:Name>Default Styler</sld:Name>
       <sld:FeatureTypeStyle>
         <sld:Rule>
-          <sld:Title>USA states</sld:Title>
-          <sld:MinScaleDenominator>7.0E7</sld:MinScaleDenominator>
-          <sld:MaxScaleDenominator>1.2E8</sld:MaxScaleDenominator>
+          <sld:Title>States and provinces</sld:Title>
+          <sld:MinScaleDenominator>2.0E7</sld:MinScaleDenominator>
+          <sld:MaxScaleDenominator>7.0E7</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#a9a9a9</sld:CssParameter>

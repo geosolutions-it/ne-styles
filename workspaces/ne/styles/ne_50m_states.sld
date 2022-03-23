@@ -8,13 +8,6 @@
           <sld:Title>States and provinces</sld:Title>
           <sld:MinScaleDenominator>2.0E7</sld:MinScaleDenominator>
           <sld:MaxScaleDenominator>7.0E7</sld:MaxScaleDenominator>
-          <sld:LineSymbolizer>
-            <sld:Stroke>
-              <sld:CssParameter name="stroke">#a9a9a9</sld:CssParameter>
-              <sld:CssParameter name="stroke-width">0.1</sld:CssParameter>
-              <sld:CssParameter name="stroke-dasharray">4.0 4.0</sld:CssParameter>
-            </sld:Stroke>
-          </sld:LineSymbolizer>
           <sld:TextSymbolizer>
             <sld:Label>
               <ogc:PropertyName>name</ogc:PropertyName>

@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_admin_1_states_provinces_lines</name>
+  <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7fe8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2524850:17f4b5b279a:-7fe2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5fb5efd1:17fb2dd78e8:-7fe9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-03-23 11:06:52.919 UTC</dateCreated>
+  <dateModified>2022-03-23 11:25:44.679 UTC</dateModified>
+</layer>

@@ -1,0 +1,6 @@
+/* @title USA states */
+[@sd > 70M] {
+  stroke: darkgray;
+  stroke-dasharray: 4 4;
+  stroke-width: 0.1;
+}
