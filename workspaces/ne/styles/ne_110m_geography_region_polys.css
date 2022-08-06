@@ -1,0 +1,12 @@
+/* @title gold polygon */
+* {
+  label: [NAME];
+  label-anchor: 0.5 0.5;
+  font-family: 'Noto Serif';
+  font-size: [recode(SCALERANK, 0, 13, 1, 10)];
+  font-fill: darken(darkgreen, 10%);
+  label-padding: 10;
+  label-max-displacement: 80;
+  label-auto-wrap: 80;
+  label-priority: [10000 / (SCALERANK + 1)];
+}

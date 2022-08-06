@@ -1,0 +1,16 @@
+<layer>
+  <name>NE1_HR_LC_SR_W_DR_COG</name>
+  <id>LayerInfoImpl-18201fee:1827364c9b6:-7ffd</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-78ff667e:12476299803:-7ffb</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-18201fee:1827364c9b6:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-06 13:58:43.542 UTC</dateCreated>
+</layer>

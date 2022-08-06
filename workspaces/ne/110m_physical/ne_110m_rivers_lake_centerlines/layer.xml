@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_rivers_lake_centerlines</name>
+  <id>LayerInfoImpl-18201fee:1827364c9b6:-7f74</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-18201fee:1827364c9b6:-7f73</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-18201fee:1827364c9b6:-7f75</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-06 14:34:04.670 UTC</dateCreated>
+  <dateModified>2022-08-06 14:34:39.293 UTC</dateModified>
+</layer>

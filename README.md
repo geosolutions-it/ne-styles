@@ -41,7 +41,15 @@ and unzip in the ``data`` folder. The result should look as follows:
       +---...
 ```  
 
-The data directory is already configured to lookup the data from this location.
+Then, download the "Natural Earth I with Shaded Relief, Water, and Drainages" [raster, large size](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/NE1_HR_LC_SR_W_DR.zip), and un-zip it. Then use this command to optimize the file, adding tiling, overviews, and an efficient compression, with minimal quality loss:
+
+```
+gdal_translate -of COG -co COMPRESS=JPEG -co QUALITY=85 NE1_HR_LC_SR_W_DR.tif NE1_HR_LC_SR_W_DR_COG.tif
+```
+
+Finally, move the resulting file in ``ne-styles\data``.
+
+The data directory is already configured to look up both the vector and the raster data from the locations suggested above.
 
 ### Found an issue? Contribute a fix!
 

@@ -1,0 +1,4 @@
+/* @title Rivers */
+[@sd > 70M] {
+    stroke: desaturate(lighten(blue, 30%), 25%);
+}
