@@ -1,5 +1,5 @@
 /* @title Geographic lines */
-* {
+[@sd > 20M][@sd < 70M] {
   stroke: white;
   stroke-width: 0.25;
   stroke-dasharray: 4 4;

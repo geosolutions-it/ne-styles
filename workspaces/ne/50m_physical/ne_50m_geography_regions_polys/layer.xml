@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_50m_geography_regions_polys</name>
+  <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1fee0a5d:182bfbfa7b8:-7f39</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1fee0a5d:182bfbfa7b8:-7fc9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-21 09:46:42.934 UTC</dateCreated>
+  <dateModified>2022-08-21 10:07:01.231 UTC</dateModified>
+</layer>

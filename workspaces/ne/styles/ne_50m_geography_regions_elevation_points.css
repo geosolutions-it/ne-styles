@@ -1,0 +1,21 @@
+/* @title Elevation points */
+[@sd > 20M][@sd < 70M] {
+  [featurecla = 'mountain'] {
+  	mark: symbol(triangle);
+  };
+  mark-size: 7;
+  :mark {
+    fill: brown;
+  };
+  label: [name];
+  label-anchor: 0.5 1;
+  label-offset: 0 -2;
+  font-family: 'Noto Sans';
+  font-size: 10;
+  font-fill: darken(brown, 20%);
+  label-padding: 10;
+  label-auto-wrap: 50;
+  halo-color: lightgray;
+  halo-radius: 1;
+  halo-opacity: 0.5;
+}

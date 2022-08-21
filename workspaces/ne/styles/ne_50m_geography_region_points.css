@@ -1,0 +1,19 @@
+/* @title Geographic region points */
+[@sd > 20M][@sd < 70M] {
+  mark: symbol(circle);
+  mark-size: 4;
+  :mark {
+    fill: green;
+  };
+  label: [name];
+  label-anchor: 0.5 1;
+  label-offset: 0 -2;
+  font-family: 'Noto Sans';
+  font-size: 10;
+  font-fill: darken(darkgreen, 10%);
+  label-padding: 10;
+  label-auto-wrap: 70;
+  halo-color: lightgray;
+  halo-radius: 1;
+  halo-opacity: 0.5;
+}

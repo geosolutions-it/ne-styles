@@ -23,12 +23,42 @@
     <published type="layer">
       <id>LayerInfoImpl-18201fee:1827364c9b6:-7f3a</id>
     </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7fee</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fce</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fcc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fca</id>
+    </published>
   </publishables>
   <styles>
     <style/>
     <style>
       <id>StyleInfoImpl-18201fee:1827364c9b6:-7fdb</id>
     </style>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-1fee0a5d:182bfbfa7b8:-7fc2</id>
+    </style>
+    <style/>
+    <style/>
+    <style/>
     <style/>
     <style/>
     <style/>
@@ -41,5 +71,5 @@
     <crs>EPSG:4326</crs>
   </bounds>
   <dateCreated>2022-08-06 13:59:13.397 UTC</dateCreated>
-  <dateModified>2022-08-06 14:45:42.170 UTC</dateModified>
+  <dateModified>2022-08-21 14:14:26.608 UTC</dateModified>
 </layerGroup>

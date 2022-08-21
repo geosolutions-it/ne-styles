@@ -1,11 +1,9 @@
-/* @title gold polygon */
-[@sd > 70M] {
+/* @title Geographic regions */
+[@sd > 20M][@sd < 70M] {
   label: [strCapitalize(NAME)];
-  [SCALERANK = 0] { label: [NAME];
-  font-family: 'Noto Serif';};
   label-anchor: 0.5 0.5;
   font-family: 'Noto Sans';
-  font-size: [recode(SCALERANK, 0, 13, 1, 10)];
+  font-size: 10;
   font-fill: darken(darkgreen, 10%);
   label-padding: 10;
   label-max-displacement: 80;
@@ -14,4 +12,12 @@
   halo-color: lightgray;
   halo-radius: 1;
   halo-opacity: 0.5;
+  
+  [SCALERANK = 0] { 
+    label: [NAME];
+    font-family: 'Noto Serif';
+    font-weight: Bold;
+    font-size: 13;
+    font-fill: darken(darkgreen, 3%);
+  };
 }

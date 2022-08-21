@@ -5,31 +5,24 @@
       <sld:Name>Default Styler</sld:Name>
       <sld:FeatureTypeStyle>
         <sld:Rule>
-          <sld:Title>gold polygon</sld:Title>
+          <sld:Title>Geographic regions</sld:Title>
           <ogc:Filter>
             <ogc:PropertyIsEqualTo>
               <ogc:PropertyName>SCALERANK</ogc:PropertyName>
               <ogc:Literal>0</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
-          <sld:MinScaleDenominator>7.0E7</sld:MinScaleDenominator>
+          <sld:MinScaleDenominator>2.0E7</sld:MinScaleDenominator>
+          <sld:MaxScaleDenominator>7.0E7</sld:MaxScaleDenominator>
           <sld:TextSymbolizer>
             <sld:Label>
               <ogc:PropertyName>NAME</ogc:PropertyName>
             </sld:Label>
             <sld:Font>
               <sld:CssParameter name="font-family">Noto Serif</sld:CssParameter>
-              <sld:CssParameter name="font-size">
-                <ogc:Function name="Recode">
-                  <ogc:PropertyName>SCALERANK</ogc:PropertyName>
-                  <ogc:Literal>0</ogc:Literal>
-                  <ogc:Literal>13</ogc:Literal>
-                  <ogc:Literal>1</ogc:Literal>
-                  <ogc:Literal>10</ogc:Literal>
-                </ogc:Function>
-              </sld:CssParameter>
+              <sld:CssParameter name="font-size">13</sld:CssParameter>
               <sld:CssParameter name="font-style">normal</sld:CssParameter>
-              <sld:CssParameter name="font-weight">normal</sld:CssParameter>
+              <sld:CssParameter name="font-weight">Bold</sld:CssParameter>
             </sld:Font>
             <sld:LabelPlacement>
               <sld:PointPlacement>
@@ -50,7 +43,7 @@
               <sld:CssParameter name="fill">
                 <ogc:Function name="darken">
                   <ogc:Literal>#006400</ogc:Literal>
-                  <ogc:Literal>0.1</ogc:Literal>
+                  <ogc:Literal>0.03</ogc:Literal>
                 </ogc:Function>
               </sld:CssParameter>
             </sld:Fill>
@@ -69,14 +62,15 @@
           </sld:TextSymbolizer>
         </sld:Rule>
         <sld:Rule>
-          <sld:Title>gold polygon</sld:Title>
+          <sld:Title>Geographic regions</sld:Title>
           <ogc:Filter>
             <ogc:PropertyIsNotEqualTo>
               <ogc:PropertyName>SCALERANK</ogc:PropertyName>
               <ogc:Literal>0</ogc:Literal>
             </ogc:PropertyIsNotEqualTo>
           </ogc:Filter>
-          <sld:MinScaleDenominator>7.0E7</sld:MinScaleDenominator>
+          <sld:MinScaleDenominator>2.0E7</sld:MinScaleDenominator>
+          <sld:MaxScaleDenominator>7.0E7</sld:MaxScaleDenominator>
           <sld:TextSymbolizer>
             <sld:Label>
               <ogc:Function name="strCapitalize">
@@ -85,15 +79,7 @@
             </sld:Label>
             <sld:Font>
               <sld:CssParameter name="font-family">Noto Sans</sld:CssParameter>
-              <sld:CssParameter name="font-size">
-                <ogc:Function name="Recode">
-                  <ogc:PropertyName>SCALERANK</ogc:PropertyName>
-                  <ogc:Literal>0</ogc:Literal>
-                  <ogc:Literal>13</ogc:Literal>
-                  <ogc:Literal>1</ogc:Literal>
-                  <ogc:Literal>10</ogc:Literal>
-                </ogc:Function>
-              </sld:CssParameter>
+              <sld:CssParameter name="font-size">10</sld:CssParameter>
               <sld:CssParameter name="font-style">normal</sld:CssParameter>
               <sld:CssParameter name="font-weight">normal</sld:CssParameter>
             </sld:Font>

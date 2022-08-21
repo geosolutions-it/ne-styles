@@ -1,0 +1,18 @@
+/* @title Geographic lines */
+[@sd > 70M] {
+  stroke: white;
+  stroke-width: 0.25;
+  stroke-dasharray: 4 4;
+  label: [name];
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-size: 8;
+  font-fill: white;
+  label-follow-line: true;
+  halo-color: darken(darkgray, 55%);
+  halo-radius: 1.25;
+  halo-opacity: 55%;
+  label-offset: 0 10;
+  label-max-displacement: 200;
+  label-char-spacing: 1;
+}

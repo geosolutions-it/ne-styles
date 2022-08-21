@@ -1,0 +1,18 @@
+/* @title Marine names */
+[@sd > 20M][@sd < 70M] {
+  label: [strToUppercase(name)];
+  font-family: 'Noto Sans';
+  font-weight: bold;
+  font-fill: lighten(desaturate(darkblue, 80%), 15%);
+  font-size: 10;
+  label-priority: 100M;
+  label-auto-wrap: 60;
+  label-max-displacement: 100;
+  label-fit-goodness: 1;
+  label-char-spacing: 2;
+  label-padding: 30;
+  
+  [scalerank = 0] { 
+    font-size: 13;
+  };
+}

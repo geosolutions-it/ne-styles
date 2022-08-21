@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_50m_rivers_lake_centerlines</name>
+  <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1fee0a5d:182bfbfa7b8:-7fb3</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1fee0a5d:182bfbfa7b8:-7fc4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-21 09:48:02.951 UTC</dateCreated>
+  <dateModified>2022-08-21 09:58:36.339 UTC</dateModified>
+</layer>

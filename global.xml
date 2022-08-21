@@ -7,6 +7,27 @@
     <onlineResource>http://geoserver.org</onlineResource>
     <verbose>false</verbose>
     <verboseExceptions>false</verboseExceptions>
+    <metadata>
+      <map>
+        <entry>
+          <string>NetCDFOutput.Key</string>
+          <netCDFSettings>
+            <compressionLevel>0</compressionLevel>
+            <shuffle>true</shuffle>
+            <copyAttributes>false</copyAttributes>
+            <copyGlobalAttributes>false</copyGlobalAttributes>
+            <dataPacking>NONE</dataPacking>
+          </netCDFSettings>
+        </entry>
+        <entry>
+          <string>CogSettings.Key</string>
+          <cogSettings>
+            <useCachingStream>false</useCachingStream>
+            <rangeReaderSettings>HTTP</rangeReaderSettings>
+          </cogSettings>
+        </entry>
+      </map>
+    </metadata>
     <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
     <showCreatedTimeColumnsInAdminList>false</showCreatedTimeColumnsInAdminList>
     <showModifiedTimeColumnsInAdminList>false</showModifiedTimeColumnsInAdminList>
@@ -57,7 +78,7 @@
     <queueType>UNBOUNDED</queueType>
     <imageIOCacheThreshold>10240</imageIOCacheThreshold>
   </coverageAccess>
-  <updateSequence>275</updateSequence>
+  <updateSequence>404</updateSequence>
   <featureTypeCacheSize>0</featureTypeCacheSize>
   <globalServices>true</globalServices>
   <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
