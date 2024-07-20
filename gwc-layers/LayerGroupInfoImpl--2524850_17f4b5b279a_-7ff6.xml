@@ -4,6 +4,11 @@
   <inMemoryCached>true</inMemoryCached>
   <name>ne:ne-political</name>
   <mimeFormats>
+    <string>image/png</string>
+    <string>image/vnd.jpeg-png</string>
+    <string>image/jpeg</string>
+    <string>image/vnd.jpeg-png8</string>
+    <string>image/gif</string>
     <string>image/png8</string>
   </mimeFormats>
   <gridSubsets>
@@ -20,6 +25,9 @@
       <zoomStop>8</zoomStop>
     </gridSubset>
     <gridSubset>
+      <gridSetName>EPSG:900913x2</gridSetName>
+    </gridSubset>
+    <gridSubset>
       <gridSetName>EPSG:900913</gridSetName>
       <extent>
         <coords>
@@ -30,6 +38,9 @@
         </coords>
       </extent>
       <zoomStop>8</zoomStop>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>EPSG:4326x2</gridSetName>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>

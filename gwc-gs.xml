@@ -1,6 +1,6 @@
 <GeoServerGWCConfig>
   <version>1.1.0</version>
-  <directWMSIntegrationEnabled>false</directWMSIntegrationEnabled>
+  <directWMSIntegrationEnabled>true</directWMSIntegrationEnabled>
   <requireTiledParameter>true</requireTiledParameter>
   <WMSCEnabled>true</WMSCEnabled>
   <TMSEnabled>true</TMSEnabled>
@@ -19,25 +19,40 @@
       </InnerCacheConfiguration>
     </entry>
   </cacheConfigurations>
-  <cacheLayersByDefault>false</cacheLayersByDefault>
+  <cacheLayersByDefault>true</cacheLayersByDefault>
   <cacheNonDefaultStyles>true</cacheNonDefaultStyles>
-  <metaTilingX>4</metaTilingX>
-  <metaTilingY>4</metaTilingY>
+  <metaTilingX>1</metaTilingX>
+  <metaTilingY>1</metaTilingY>
   <gutter>0</gutter>
   <defaultCachingGridSetIds>
     <string>EPSG:4326</string>
+    <string>EPSG:900913x2</string>
     <string>EPSG:900913</string>
+    <string>EPSG:4326x2</string>
   </defaultCachingGridSetIds>
   <defaultCoverageCacheFormats>
     <string>image/png</string>
+    <string>image/vnd.jpeg-png</string>
     <string>image/jpeg</string>
+    <string>image/vnd.jpeg-png8</string>
+    <string>image/gif</string>
+    <string>image/png8</string>
   </defaultCoverageCacheFormats>
   <defaultVectorCacheFormats>
     <string>image/png</string>
+    <string>image/vnd.jpeg-png</string>
     <string>image/jpeg</string>
+    <string>image/vnd.jpeg-png8</string>
+    <string>image/gif</string>
+    <string>image/png8</string>
   </defaultVectorCacheFormats>
   <defaultOtherCacheFormats>
     <string>image/png</string>
+    <string>image/vnd.jpeg-png</string>
     <string>image/jpeg</string>
+    <string>image/vnd.jpeg-png8</string>
+    <string>image/gif</string>
+    <string>image/png8</string>
   </defaultOtherCacheFormats>
+  <lockProviderName>globalLock</lockProviderName>
 </GeoServerGWCConfig>

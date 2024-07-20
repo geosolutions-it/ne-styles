@@ -442,13 +442,6 @@
       <binding>java.lang.String</binding>
     </attribute>
     <attribute>
-      <name>ADM0_A3_IS</name>
-      <minOccurs>0</minOccurs>
-      <maxOccurs>0</maxOccurs>
-      <nillable>false</nillable>
-      <binding>java.lang.String</binding>
-    </attribute>
-    <attribute>
       <name>ADM0_A3_US</name>
       <minOccurs>0</minOccurs>
       <maxOccurs>0</maxOccurs>
