@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_geography_regions_polys</name>
+  <id>LayerInfoImpl-18201fee:1827364c9b6:-7f3a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-18201fee:1827364c9b6:-7f39</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-18201fee:1827364c9b6:-7f3b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-06 14:44:39.608 UTC</dateCreated>
+  <dateModified>2022-08-06 14:45:30.747 UTC</dateModified>
+</layer>

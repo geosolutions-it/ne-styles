@@ -1,0 +1,17 @@
+/* @title gold polygon */
+[@sd > 70M] {
+  label: [strCapitalize(NAME)];
+  [SCALERANK = 0] { label: [NAME];
+  font-family: 'Noto Serif';};
+  label-anchor: 0.5 0.5;
+  font-family: 'Noto Sans';
+  font-size: [recode(SCALERANK, 0, 13, 1, 10)];
+  font-fill: darken(darkgreen, 10%);
+  label-padding: 10;
+  label-max-displacement: 80;
+  label-auto-wrap: 50;
+  label-priority: [10000 / (SCALERANK + 1)];
+  halo-color: lightgray;
+  halo-radius: 1;
+  halo-opacity: 0.5;
+}

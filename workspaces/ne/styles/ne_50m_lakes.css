@@ -1,0 +1,14 @@
+/* @title Lakes */
+[@sd > 20M][@sd < 70M] {
+  fill: desaturate(lighten(blue, 30%), 25%);
+  fill-opacity: 50%;
+  
+  label: [name];
+  font-family: 'Noto Sans';
+  font-fill: desaturate(darkblue, 80%);
+  font-size: 10;
+  label-auto-wrap: 50;
+  label-max-displacement: 50;
+  label-fit-goodness: 0.7;
+ 
+}

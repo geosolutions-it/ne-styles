@@ -1,14 +1,14 @@
 <featureType>
-  <id>FeatureTypeInfoImpl--5fb5efd1:17fb2dd78e8:-7fef</id>
-  <name>ne_50m_geography_marine_polys</name>
-  <nativeName>ne_50m_geography_marine_polys</nativeName>
+  <id>FeatureTypeInfoImpl-18201fee:1827364c9b6:-7f3b</id>
+  <name>ne_110m_geography_regions_polys</name>
+  <nativeName>ne_110m_geography_regions_polys</nativeName>
   <namespace>
     <id>NamespaceInfoImpl--2524850:17f4b5b279a:-7ffe</id>
   </namespace>
-  <title>ne_50m_geography_marine_polys</title>
+  <title>ne_110m_geography_regions_polys</title>
   <keywords>
     <string>features</string>
-    <string>ne_50m_geography_marine_polys</string>
+    <string>ne_110m_geography_regions_polys</string>
   </keywords>
   <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
   DATUM[&quot;World Geodetic System 1984&quot;, 
@@ -22,28 +22,27 @@
   <srs>EPSG:4326</srs>
   <nativeBoundingBox>
     <minx>-180.0</minx>
-    <maxx>179.99989708894586</maxx>
-    <miny>-85.19206064243458</miny>
-    <maxy>89.99999999999996</maxy>
+    <maxx>180.0</maxx>
+    <miny>-90.0</miny>
+    <maxy>90.0</maxy>
     <crs>EPSG:4326</crs>
   </nativeBoundingBox>
   <latLonBoundingBox>
     <minx>-180.0</minx>
-    <maxx>179.99989708894586</maxx>
-    <miny>-85.19206064243458</miny>
-    <maxy>89.99999999999996</maxy>
+    <maxx>180.0</maxx>
+    <miny>-90.0</miny>
+    <maxy>90.0</maxy>
     <crs>EPSG:4326</crs>
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
-  <metadata>
-    <entry key="cachingEnabled">false</entry>
-  </metadata>
   <store class="dataStore">
-    <id>DataStoreInfoImpl--5fb5efd1:17fb2dd78e8:-7ff1</id>
+    <id>DataStoreInfoImpl--2524850:17f4b5b279a:-7fe6</id>
   </store>
   <serviceConfiguration>false</serviceConfiguration>
   <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
   <maxFeatures>0</maxFeatures>
   <numDecimals>0</numDecimals>
   <padWithZeros>false</padWithZeros>

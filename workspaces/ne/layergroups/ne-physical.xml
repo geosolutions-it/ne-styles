@@ -1,0 +1,75 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-18201fee:1827364c9b6:-7ffc</id>
+  <name>ne-physical</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl--2524850:17f4b5b279a:-7fff</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-18201fee:1827364c9b6:-7ffd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7ff3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-18201fee:1827364c9b6:-7fd1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-18201fee:1827364c9b6:-7f74</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-18201fee:1827364c9b6:-7f3a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5fb5efd1:17fb2dd78e8:-7fee</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fce</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fc8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fcc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fca</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-18201fee:1827364c9b6:-7fdb</id>
+    </style>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-1fee0a5d:182bfbfa7b8:-7fc2</id>
+    </style>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>-180.0</minx>
+    <maxx>180.0</maxx>
+    <miny>-90.0</miny>
+    <maxy>90.0</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <dateCreated>2022-08-06 13:59:13.397 UTC</dateCreated>
+  <dateModified>2022-08-21 14:14:26.608 UTC</dateModified>
+</layerGroup>

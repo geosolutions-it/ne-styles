@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_110m_lakes</name>
+  <id>LayerInfoImpl-18201fee:1827364c9b6:-7f62</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-18201fee:1827364c9b6:-7f61</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-18201fee:1827364c9b6:-7f63</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-06 14:37:24.541 UTC</dateCreated>
+  <dateModified>2022-08-06 14:37:57.704 UTC</dateModified>
+</layer>

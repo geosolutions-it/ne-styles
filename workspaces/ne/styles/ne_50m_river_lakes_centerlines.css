@@ -1,0 +1,16 @@
+/* @title Rivers */
+[@sd > 20M][@sd < 70M] {
+    stroke: desaturate(lighten(blue, 30%), 25%);
+  
+  label: [name];
+  font-family: 'Noto Sans';
+  font-fill: desaturate(darkblue, 80%);
+  font-size: 10;
+  label-max-displacement: 400;
+  label-follow-line: true;
+  label-group: true;
+  halo-color: lightgray;
+  halo-radius: 2;
+  halo-opacity: 0.5;
+  label-max-angle-delta: 40;
+}

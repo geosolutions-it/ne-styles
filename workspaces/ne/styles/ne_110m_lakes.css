@@ -1,0 +1,4 @@
+/* @title Lakes */
+[@sd > 70M] {
+    fill: desaturate(lighten(blue, 30%), 25%);
+}

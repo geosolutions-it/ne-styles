@@ -1,0 +1,17 @@
+<layer>
+  <name>ne_50m_geographic_lines</name>
+  <id>LayerInfoImpl-1fee0a5d:182bfbfa7b8:-7fce</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1fee0a5d:182bfbfa7b8:-7fb7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1fee0a5d:182bfbfa7b8:-7fcf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-08-21 09:45:53.846 UTC</dateCreated>
+  <dateModified>2022-08-21 09:57:07.988 UTC</dateModified>
+</layer>
