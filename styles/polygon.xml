@@ -1,5 +1,9 @@
 <style>
-  <id>StyleInfoImpl-78ff667e:12476299803:-7ffa</id>
+  <id>StyleInfo.37d73f7c-8307-4c35-8b00-44deeb568f80</id>
   <name>polygon</name>
+  <format>sld</format>
+  <languageVersion>
+    <version>1.0.0</version>
+  </languageVersion>
   <filename>default_polygon.sld</filename>
 </style>
